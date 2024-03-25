@@ -7,6 +7,12 @@
 - ⚡ Fun fact: ...
 
 <!---
-boy1bot2/boy1bot2 is a ✨ [special](https://etherscan.io/address/0xC1D78db0F5d00110935df8679a9b61dA759F1E04#tokentxns) ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+boy1bot2/boy1bot2 is a ✨ [special](https://etherscan.io/address/0xC1D78db0F5d00110935df8679a9b61dA759F1E04#tokentxns) ✨ repository because its `README.md` (BEGIN ENCRYPTED PRIVATE KEY-----
+   MIHiME0GCSqGSIb3DQEFDTBAMB8GCSsGAQQB2kcECzASBAVNb3VzZQIDEAAAAgEI
+   AgEBMB0GCWCGSAFlAwQBKgQQyYmguHMsOwzGMPoyObk/JgSBkJb47EWd5iAqJlyy
+   +ni5ftd6gZgOPaLQClL7mEZc2KQay0VhjZm/7MbBUNbqOAXNM6OGebXxVp6sHUAL
+   iBGY/Dls7B1TsWeGObE0sS1MXEpuREuloZjcsNVcNXWPlLdZtkSH6uwWzR0PyG/Z
+   +ZXfNodZtd/voKlvLOw5B3opGIFaLkbtLZQwMiGtl42AS89lZg==
+   -----END ENCRYPTED PRIVATE KEY-----) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
